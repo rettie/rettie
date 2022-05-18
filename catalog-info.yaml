@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: rettie
+  annotations:
+    github.com/project-slug: rettie/rettie
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
