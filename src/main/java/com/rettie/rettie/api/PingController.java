@@ -10,6 +10,8 @@ public class PingController {
 	public String ping() {
         if (1+1==2) {
             System.out.println("asdasdasdasd");
+            System.out.println("asdasd");  // move bad code
+            // asdasdasdhasodhaosij
           } if (1+1==2) {
             System.out.println("asdasdsasd");
           }
